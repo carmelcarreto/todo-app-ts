@@ -4,7 +4,7 @@
 - [X] Add Linter for TypeScript and React
 - [X] Add styles to TodoMVC
 - [X] Show the list of TODOs
-- [ ] Delete a TODO
+- [X] Delete a TODO
 - [ ] Mark TODO as complete
 - [ ] Add filter to TODOs (Footer)
 - [ ] Show number of earring TODOs (Footer)
