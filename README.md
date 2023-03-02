@@ -2,8 +2,8 @@
 
 - [X] Initializer project with Vite
 - [X] Add Linter for TypeScript and React
-- [ ] Add styles to TodoMVC
-- [ ] Show the list of TODOs
+- [X] Add styles to TodoMVC
+- [X] Show the list of TODOs
 - [ ] Delete a TODO
 - [ ] Mark TODO as complete
 - [ ] Add filter to TODOs (Footer)
