@@ -5,9 +5,9 @@
 - [X] Add styles to TodoMVC
 - [X] Show the list of TODOs
 - [X] Delete a TODO
-- [ ] Mark TODO as complete
-- [ ] Add filter to TODOs (Footer)
-- [ ] Show number of earring TODOs (Footer)
+- [X] Mark TODO as complete
+- [X] Add filter to TODOs (Footer)
+- [X] Show number of earring TODOs (Footer)
 - [ ] Add eliminate all TODOs complete
 - [ ] Create Header with input(Header)
 - [ ] Create a TODO (Header)
