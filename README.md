@@ -9,8 +9,8 @@
 - [X] Add filter to TODOs (Footer)
 - [X] Show number of earring TODOs (Footer)
 - [X] Add eliminate all TODOs complete
-- [ ] Create Header with input(Header)
-- [ ] Create a TODO (Header)
+- [X] Create Header with input(Header)
+- [X] Create a TODO (Header)
 - [ ] Edit text in a TODO(Double click)
 - [ ] Add animation with AutoAnimate
 - [ ] Go to Reducer
