@@ -8,7 +8,7 @@
 - [X] Mark TODO as complete
 - [X] Add filter to TODOs (Footer)
 - [X] Show number of earring TODOs (Footer)
-- [ ] Add eliminate all TODOs complete
+- [X] Add eliminate all TODOs complete
 - [ ] Create Header with input(Header)
 - [ ] Create a TODO (Header)
 - [ ] Edit text in a TODO(Double click)
